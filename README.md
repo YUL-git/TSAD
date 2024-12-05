@@ -1,15 +1,15 @@
-## 예측모델 팀플
-* 사용 라이브러리: https://nixtlaverse.nixtla.io/
+## Predictive Modeling Team Project
+* Libraries Used: https://nixtlaverse.nixtla.io/
 
-## 파일 설명
+## File Description
 
-* TSAD_JY[Final_X].ipynb -- Univariate with Exogenous TSAD (Multivariate)
-실험 모델: LSTM, GRU, NBEATSx, NHITS, TSMixerx
+* TSAD_JY[Final_X].ipynb -- Univariate with Exogenous TSAD (Multivariate)  
+Experimental Models: LSTM, GRU, NBEATSx, NHITS, TSMixerx
 
-* TSAD_JY[Final_M].ipynb -- Multivariate TSAD
-실험 모델: TSMixer, NHITS, PatchTST, TimesNet
+* TSAD_JY[Final_M].ipynb -- Multivariate TSAD  
+Experimental Models: TSMixer, NHITS, PatchTST, TimesNet
 
-## 주요 인자
+## Key Parameters    
 * horizon: 예측 길이
 * input_size: 학습 길이
 * threshold: 이상치 판정 경계값
