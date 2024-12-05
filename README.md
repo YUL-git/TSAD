@@ -15,7 +15,8 @@ Experimental Models: TSMixer, NHITS, PatchTST, TimesNet
 * threshold: Anomaly detection threshold
 
 ## RUN CODE
-ENV=Ubuntu 20.04 LTS CUDA 12.1.0 cudnn8
+ENVIRONMENT SET  
+Ubuntu 20.04 LTS CUDA 12.1.0 cudnn8
 
 ```
 conda create -n TS PYTHON==3.9
