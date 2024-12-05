@@ -10,9 +10,9 @@ Experimental Models: LSTM, GRU, NBEATSx, NHITS, TSMixerx
 Experimental Models: TSMixer, NHITS, PatchTST, TimesNet
 
 ## Key Parameters    
-* horizon: 예측 길이
-* input_size: 학습 길이
-* threshold: 이상치 판정 경계값
+* horizon: Prediction length
+* input_size: Training window size
+* threshold: Anomaly detection threshold
 
 ## RUN CODE
 ENV=Ubuntu 20.04 LTS CUDA 12.1.0 cudnn8
